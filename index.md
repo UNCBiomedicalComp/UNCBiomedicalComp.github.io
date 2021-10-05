@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Biomedical Computing in the Department of Computer Science at UNC
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We are collectively X labs in [The Department of Computer Science at UNC-Chapel Hill](https://cs.unc.edu) working across diverse areas of biomedical computing, including medical image analysis, computational immunology, compuational genetics, etc..
+
   
 {%
   include link.html
