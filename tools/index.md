@@ -1,5 +1,5 @@
 ---
-title: Faculty
+title: Labs
 nav:
   order: 2
   tooltip: Software, datasets, and more
