@@ -44,7 +44,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/immuno.png"
   link="research"
-  headline="Our Research"
+  headline="Computational Immunology"
   text=text
 %}
 
