@@ -4,7 +4,7 @@ title: Home
 
 # Biomedical Computing in the Department of Computer Science at UNC-Chapel Hill
 
-We are collectively X labs in the [Department of Computer Science](https://cs.unc.edu) at UNC-Chapel Hiill, working across diverse areas of biomedical computing, including, medical image analysis, computational immunology, computational genetics, and X. 
+We are collectively X labs in the [Department of Computer Science](https://cs.unc.edu) at UNC-Chapel Hill, working across diverse areas of biomedical computing, including, medical image analysis, computational immunology, computational genetics, and X. 
   
 {%
   include link.html
@@ -42,7 +42,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/immuno.png"
   link="research"
   headline="Our Research"
   text=text
