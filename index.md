@@ -10,7 +10,7 @@ We are collectively X labs in the [Department of Computer Science](https://cs.un
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
+  text="Research Groups"
   link="greenelab/lab-website-template"
   style="button"
 %}
@@ -18,7 +18,7 @@ We are collectively X labs in the [Department of Computer Science](https://cs.un
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
+  text="Recent Publications"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}
