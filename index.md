@@ -26,7 +26,7 @@ We are collectively X labs in the [Department of Computer Science](https://cs.un
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner2.png" %}
 
 {% include section.html %}
 
