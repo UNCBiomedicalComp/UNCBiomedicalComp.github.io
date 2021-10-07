@@ -30,7 +30,7 @@ We are collectively X labs in the [Department of Computer Science](https://cs.un
 
 {% include section.html %}
 
-# Highlights
+# Research Areas 
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
