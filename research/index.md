@@ -1,7 +1,7 @@
 ---
-title: Research Areas
+title: Recent Projects and Publications
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
