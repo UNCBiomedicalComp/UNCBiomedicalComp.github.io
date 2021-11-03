@@ -48,8 +48,7 @@ Advancements in high-throughput polychromatic flow cytometry technologies have e
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Marc fill in
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -59,7 +58,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  headline="Our Resources"
+  headline="Medical Image Analysis"
   text=text
 %}
 
