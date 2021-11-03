@@ -73,6 +73,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  headline="Our Team"
+  headline="Computational Genetics"
   text=text
 %}
