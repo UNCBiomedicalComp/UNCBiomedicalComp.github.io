@@ -34,19 +34,11 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-{:.center}
+
 
 {% include section.html %}
 
@@ -79,18 +71,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-{:.center}
-
-{% include section.html %}
