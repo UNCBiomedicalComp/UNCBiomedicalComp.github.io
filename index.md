@@ -63,7 +63,7 @@ Marc fill in
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Leonard fill in
 
 [Meet our team &nbsp;→](team)
 {:.center}
